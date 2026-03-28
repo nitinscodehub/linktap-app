@@ -53,6 +53,7 @@ lib/
 - An Android device or emulator
 
 ### Steps
+0. **First Download the repository:**
 
 1. **Navigate to the project directory:**
    ```bash
