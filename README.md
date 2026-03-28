@@ -122,3 +122,6 @@ The app follows **Clean Architecture** principles:
 - **State Management**: Provider
 - **Storage**: SharedPreferences
 - **Architecture**: Clean Architecture with Provider
+
+
+made with nitin dhurve ❤️
