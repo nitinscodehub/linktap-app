@@ -1,6 +1,8 @@
 # OneTap Links
 
 A quick-access bookmark manager app built with Flutter.
+<img width="860" height="537" alt="Screenshot From 2026-03-28 17-09-42" src="https://github.com/user-attachments/assets/24d5e887-2abf-4c66-90dc-f753c4417c8b" />
+
 
 ## Features
 
